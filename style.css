@@ -1,0 +1,55 @@
+body iframe {
+}
+body iframe {
+}
+header {
+}
+header   {
+    background-color: #0F0E0E;
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: bold;
+    font-size: large;
+    text-shadow: 2px 0px #8F8D8D;
+    text-transform: capitalize;
+    word-spacing: 2px;
+    /* [disabled]list-style-position: outside; */
+    margin-left: auto;
+    margin-right: auto;
+    height: 180px;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-top: 90px;
+    padding-bottom: 90x;
+}
+.Introduction {
+    background-color: #969393;
+    color: #434141;
+    font-weight: normal;
+}
+
+main {
+    background-color: #EBE7E7;
+}
+footer {
+    background-color: #131111;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: x-small;
+    height: 70px;
+}
+.Introduction {
+    background-color: #635E5E;
+    color: #E5E1E1;
+}
+main article h2 {
+    background-color: #7B7979;
+    color: #F0E9E9;
+    text-indent: 5px;
+    text-shadow: 2px 0px px #E0DADA;
+    text-transform: capitalize;
+}
+.container {
+    width: 3000px;
+}
